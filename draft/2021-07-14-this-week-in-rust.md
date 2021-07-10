@@ -156,6 +156,11 @@ Email the [Rust Community Team][community] for access.
 
 # Rust Jobs
 
+**Tempus Ex**
+
+* [Backend Engineer (San Francisco, Atlanta, and Remote)](https://boards.greenhouse.io/txm/jobs/4000075003)
+* [Senior Backend Engineer (San Francisco, Atlanta, and Remote)](https://boards.greenhouse.io/txm/jobs/4000069003)
+
 *Tweet us at [@ThisWeekInRust](https://twitter.com/ThisWeekInRust) to get your job offers listed here!*
 
 # Quote of the Week
